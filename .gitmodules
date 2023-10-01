@@ -1,0 +1,3 @@
+[submodule "docker/signal-cli-rest-api"]
+	path = docker/signal-cli-rest-api
+	url = https://github.com/bbernhard/signal-cli-rest-api.git
